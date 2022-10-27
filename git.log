@@ -1,0 +1,40 @@
+commit 0927b0fc27490741253feb353eac3b12698f8039
+Merge: 9b0c406 84a9546
+Author: Szymon3125 <50416224+Szymon3125@users.noreply.github.com>
+Date:   Thu Oct 27 16:06:13 2022 +0200
+
+    Merge pull request #1 from Szymon3125/feature1
+    
+    added new branch
+
+commit 84a9546606ac2078703b4d16a11169f5bde41c5d
+Author: Student <student@ANT.cie.put.poznan.pl>
+Date:   Thu Oct 27 18:03:54 2022 +0200
+
+    added new branch
+
+commit 9b0c40694d6f9df905e8ec009fc3f5337ff675fb
+Author: Szymon3125 <50416224+Szymon3125@users.noreply.github.com>
+Date:   Thu Oct 27 15:59:00 2022 +0200
+
+    changes
+    
+    changes
+
+commit 8bbeee2968dd1a41b1fc41269676ff6c77c55ce8
+Author: Student <student@ANT.cie.put.poznan.pl>
+Date:   Thu Oct 27 17:54:46 2022 +0200
+
+    added java file
+
+commit 2e6d1eec1dbef9ba6ff50bdc290aae601dad5f96
+Author: Student <student@ANT.cie.put.poznan.pl>
+Date:   Thu Oct 27 17:52:06 2022 +0200
+
+    readme changes
+
+commit cb92243c1feffeb581301e6153cc4b9ede317d5e
+Author: Szymon3125 <50416224+Szymon3125@users.noreply.github.com>
+Date:   Thu Oct 27 15:29:59 2022 +0200
+
+    Initial commit
